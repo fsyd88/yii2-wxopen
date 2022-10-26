@@ -3,7 +3,6 @@
 namespace fsyd88\wxopen;
 
 use fsyd88\wxopen\api\Component;
-use fsyd88\wxopen\api\MsgCrypt;
 use fsyd88\wxopen\api\NewTmpl;
 use fsyd88\wxopen\api\Wxa;
 use fsyd88\wxopen\api\WxOpen;

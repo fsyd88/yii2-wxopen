@@ -1,0 +1,23 @@
+{
+    "name": "fsyd88/yii2-wxopen",
+    "description": "wechat open extension for Yii2",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "zhao",
+            "email": "zhao@vip.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0",
+        "yiisoft/yii2": "^2.0",
+        "guzzlehttp/guzzle": ">=6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "fsyd88\\wxopen\\": "src/"
+        }
+    }
+}
